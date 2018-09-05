@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
 import Github from './components/github';
-import { Alert } from 'reactstrap';
 class App extends Component {
 
 
